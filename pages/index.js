@@ -6,6 +6,6 @@ export default () => (
   <div>
     <Head title="Home" />
     <Nav />
-    Test
+    Testasdfasdf
   </div>
 )
